@@ -1,5 +1,5 @@
 - 👋<div align="center">
-  <img src="[YOUR_BANNER_IMAGE_URL]" alt="[BRIEF_DESCRIPTION_OF_BANNER]" width="100%">
+  <img src="https://www.gettyimages.com/detail/photo/the-passion-of-one-ignites-new-ideas-emotions-royalty-free-image/452585337" alt="Ignitingthepassion" width="100%">
 </div>
 
 <h1 align="center">👋 Hi, I'm EstherMuimi</h1>
@@ -40,8 +40,8 @@
 
 <h2 align="center">🔗 Connect With Me</h2>
 <p align="center">
-  <a href="[YOUR_LINKEDIN_PROFILE_URL]" target="_blank"><img align="center" alt="LinkedIn" height="30" width="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="[YOUR_TWITTER_PROFILE_URL]" target="_blank"><img align="center" alt="Twitter" height="30" width="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav" target="_blank"><img align="center" alt="LinkedIn" height="30" width="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
   </p>
 
 <br>
