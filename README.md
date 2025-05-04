@@ -1,5 +1,5 @@
 - 👋<div align="center">
-  <img src="https://www.gettyimages.com/detail/photo/the-passion-of-one-ignites-new-ideas-emotions-royalty-free-image/452585337" alt="Ignitingthepassion" width="100%">
+  <img src="https://images.app.goo.gl/vs45a" alt="Ignitingthepassion" width="100%">
 </div>
 
 <h1 align="center">👋 Hi, I'm EstherMuimi</h1>
