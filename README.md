@@ -29,7 +29,8 @@
 
 <h2 align="center">🌱 Currently Learning</h2>
 <p align="center">
-  [Mention specific technologies or concepts you are currently learning to enhance your portfolio - e.g., Responsive Web Design principles, front-end frameworks like React, UI/UX fundamentals].
+  I am currently  starting the basics on web and the terminologies .Later on UI/UX fundamentals 
+
 </p>
 
 <h2 align="center">💼 Future Aspirations</h2>
